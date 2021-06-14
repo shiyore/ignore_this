@@ -1,1 +1,1 @@
-document.getById("table").insertRow();
+console.logt("my github js file has been linked");
