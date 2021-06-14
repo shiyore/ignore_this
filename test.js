@@ -1,1 +1,1 @@
-console.logt("my github js file has been linked");
+console.log("my github js file has been linked");
